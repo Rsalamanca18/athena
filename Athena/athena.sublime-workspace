@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sum",
+				"sumArray"
+			],
+			[
+				"pr",
+				"printReverse"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"reve",
+				"reverse"
+			],
+			[
+				"reverse",
+				"printReverse"
+			],
+			[
+				"hover",
+				"hover-width"
+			],
+			[
+				"l",
+				"left-button-hover-color"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"add",
+				"addTodo"
+			],
+			[
+				"lis",
+				"listTodos"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"fac",
+				"factorial"
+			],
+			[
+				"a",
+				"again"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rodrigosalamanca/Documents/Athena/athena.html",
+		"/Users/rodrigosalamanca/Documents/Athena/pictures.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/gallery.css",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/Imagegalery.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/index.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/app.css",
+		"/Users/rodrigosalamanca/Documents/Eloquent Javascript/fixBuzz.js",
+		"/Users/rodrigosalamanca/Documents/Eloquent Javascript/fixBuzz.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Arrays/moviedata.js",
+		"/Users/rodrigosalamanca/Documents/Athena/athena.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Arrays/array.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Arrays/array.html",
+		"/Users/rodrigosalamanca/Documents/bradtraversy/split/main.js",
+		"/Users/rodrigosalamanca/Documents/bradtraversy/split/style.css",
+		"/Users/rodrigosalamanca/Documents/bradtraversy/split/index.html",
+		"/Users/rodrigosalamanca/Documents/bradtraversy/split/img/javs.jpg",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Arrays/todo.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Arrays/todo.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/basics.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Functions/funct_prob.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Functions/Functprob.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/Functions/untitled",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/control flow/LoopsP.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/control flow/loopsproblems.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/control flow/LoopsP.js",
+		"/Users/rodrigosalamanca/Documents/Eloquent Javascript/loopsproblems.js",
+		"/Users/rodrigosalamanca/Documents/Eloquent Javascript/tri.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/annoy.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/annoy.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/loops.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/whileloops.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/guess.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/guess.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/ageprob.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/ageproblem.html",
+		"/Users/rodrigosalamanca/Documents/Eloquent Javascript/triangle.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/age.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/agecalc.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/stalker.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/stalker.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/scriptdemo.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/script.js",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/javascript/scriptfile.js",
+		"/Users/rodrigosalamanca/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D079DC26-711C-46D6-A2DC-DACF7990FEA3/0.1.2.zip",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/index.hmtl",
+		"/Users/rodrigosalamanca/Downloads/07_Image_Gallery/gallery.md",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/Bootstrapgridsystem.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/bootstrap/navbars.html",
+		"/Users/rodrigosalamanca/Documents/bradtraversy/index.html",
+		"/Users/rodrigosalamanca/Documents/bradtraversy/style.css",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/myblog.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/blog.css",
+		"/Users/rodrigosalamanca/Downloads/07_ImageBlog1/imageLinks.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/css/fonts.css",
+		"/Users/rodrigosalamanca/Downloads/01_Fonts_Intro/styles.css",
+		"/Users/rodrigosalamanca/Downloads/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/rodrigosalamanca/Downloads/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/assignmentdog.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/page2.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/divsandspans.html",
+		"/Users/rodrigosalamanca/Downloads/Anaconda3-5.0.1-MacOSX-x86_64.sh",
+		"/Users/rodrigosalamanca/Documents/Pythonbootcamp/intro.py",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/whativelearned.html",
+		"/Users/rodrigosalamanca/Documents/web bootcamp/firstPage.html",
+		"/firstPage.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "athena.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
